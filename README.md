@@ -3,6 +3,7 @@ kahoot.it
 1) What are the 5 operational domains?
    - air, land, maritime, space, Cyberspace
 
+
 2) The space domain is the area above the altitude where atmospheric effects are negligible
    - Tue 
 
@@ -125,13 +126,12 @@ Day 2) kahoot
     - torture
 27) ROE does not provide implementation guidance on the inherent right and obligation of self-defense.
     - False
-28) Which title has the key focus is National Defense?****
+28) Which title has the key focus is National Defense?
     - Title 10
 29) Which title has the key focus of Foreign Intelligence and Counter-Intelligence activities?
     - Title 50
 30) The _____ conducts CO to defeat significant cyberspace threats to the DODIN and the nation.
-    - Cyber National Mission Force
-31) Cyber Combat Mission Forces consists of _____ and _____.
+    - Cyber National Mission Forceyber Combat Mission Forces consists of _____ and _____.
     -CMTs, CSTs
 32) CMTs and CSTs are OPCON to _____.
     - JFHQ-Cyber 
@@ -141,4 +141,58 @@ Day 2) kahoot
     -OPCON
 35) The ___ conducts cyber operations to support the missions, plans, and priorities of the geographic and functional CCDRs.
     - Cyber Combat Mission Force 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+day 3 kahoot.it 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
