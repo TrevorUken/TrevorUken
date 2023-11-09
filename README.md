@@ -62,67 +62,83 @@ kahoot.it
 
 
 
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 2) kahoot
 
-1) a
-   -
-2) a
-   -
-3) a
-   -
-4) a
-   -
-5) a
-   -
-6) a
-   -
-7) a
-   -
-8) a
-   -
-9) a
-    -
-10) a
-    -
-11) a
-    -
-12) a
-    -
-13) a
-    -
-14) a
-    -
-15) a
-    -
-16) a
-    -
-17) a
-    -
-18) a
-    -
-19) a
-    - 
-20) a
-    -
-21) a
-    -
-22) a
-    -
-23) a
-    -
-24) a
-    -
-25) a
-    -
-26) a
-    -
-27) a
-    -
-28) a
-    -
-29) a
-    -
-30) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+1) _____ is a maneuver space essential for facilitating control within the Operational Environment (OE).
+   - The Electromagnetic Spectrum
+2) The EMOE is a maneuver space, and battlespace where competition and warfare are conducted.
+   - true
+3) What are the 3 factors of EMOE complexity?
+   - contested, congested, constrained
+4) Jamming is a defensive and offensive electronic attack activity.
+   - True
+5) Personnel employ sensors to detect/intercept, identify, and locate adversary electromagnetic signatures is a _____ task.
+   -Threat Warning
+6) _____ is procedures/SOPs to minimize detection by enemy sensors and decrease interference among friendly systems.
+   - Emission Control
+7) Space operations are those operations impacting and utilizing only space based capabilities.
+   - false 
+8) ____ is the current/predictive knowledge and characterization of space objects and OE which space operations depend.
+   - Space Situational Awareness
+9) The 3 subcategories of Space Control are:
+    - Offensive Space Control, Defensive Space Control, Navigation Warfare
+10) What are the 3 dimensions of the Space Domain?
+    - Physical, Network, Cognitive
+11) What are the 3 Space Domain Elements?
+    - Ground Segment, Link Segment, Space Segment
+12) Space operations do not require planners to coordinate with non-DOD entities.
+    - False
+13) All space operations rely on the _____ for command and control, sensing, and information distribution.
+    -Electromagnetic Spectrum
+14) Cyberspace Operations are only comprised of military operations of the DOD.
+    - False
+15) Combatant Commanders use _____ to create effects in support of military objectives.
+    - Cyberspace Operations
+16) Cyberspace Operations use _____, _____, and _____ functions to create effects in cyberspace and the physical domain.
+    - links, nodes, logical
+17) _____ are defensive measures or activities taken outside of defended networks to protect DOD cyberspace.
+    - DCO-RA
+18) Degrade is a function of _____.
+    - Amount
+19) There is no stateless maneuver space in cyberspace.
+    - True
+20) _____ include military intelligence, maneuver, and information collection to prepare for future military operations.
+    - Cyberspace Exploitation
+21) The goal of DCO is to defeat the threat of a _____ and/or return a compromised network to a secure and functional state.
+    - Specific adversary
+22) Disrupt is a function of _____.
+    -Time
+23) The DODIN is not a primary source of information used to support the commander’s situational awareness of the OE.
+    -False
+24) The Law of Armed Conflict is made up of customary International Law and _____ Law.
+    - Treaty
+25) International Humanitarian Law applies to belligerent parties irrespective of the reasons for conflict.
+    - True 
+26) The Principle of Military Necessity prohibits _____ to exact confessions and other activities.
+    - torture
+27) ROE does not provide implementation guidance on the inherent right and obligation of self-defense.
+    - False
+28) Which title has the key focus is National Defense?****
+    - Title 10
+29) Which title has the key focus of Foreign Intelligence and Counter-Intelligence activities?
+    - Title 50
+30) The _____ conducts CO to defeat significant cyberspace threats to the DODIN and the nation.
+    - Cyber National Mission Force
+31) Cyber Combat Mission Forces consists of _____ and _____.
+    -CMTs, CSTs
+32) CMTs and CSTs are OPCON to _____.
+    - JFHQ-Cyber 
+33) JFHQ-Cyber do not manage CMF intelligence requirements, collection, processing, and dissemination.
+    - False 
+34) JFHQ-Cyber exercises _____ of all assigned CMTs, CSTs, and CPTs.
+    -OPCON
+35) The ___ conducts cyber operations to support the missions, plans, and priorities of the geographic and functional CCDRs.
+    - Cyber Combat Mission Force 
 
